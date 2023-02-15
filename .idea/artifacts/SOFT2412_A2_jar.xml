@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact name="SOFT2412-A2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SOFT2412_A2_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SOFT2412-A2.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/app/src/main/resources/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="SOFT2412-A2.app.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: org.checkerframework:checker-qual:3.8.0" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.8.1" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.8.1" />
+      <element id="library" level="project" name="Gradle: org.opentest4j:opentest4j:1.2.0" />
+      <element id="library" level="project" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" />
+      <element id="library" level="project" name="Gradle: com.google.guava:guava:30.1.1-jre" />
+      <element id="library" level="project" name="Gradle: com.google.errorprone:error_prone_annotations:2.5.1" />
+      <element id="library" level="project" name="Gradle: com.google.guava:failureaccess:1.0.1" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.8.1" />
+      <element id="library" level="project" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" />
+      <element id="library" level="project" name="Gradle: junit:junit:4.10" />
+      <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-engine:1.8.1" />
+      <element id="library" level="project" name="Gradle: org.junit.jupiter:junit-jupiter:5.8.1" />
+      <element id="library" level="project" name="Gradle: com.google.j2objc:j2objc-annotations:1.3" />
+      <element id="library" level="project" name="Gradle: com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava" />
+      <element id="library" level="project" name="Gradle: org.junit.platform:junit-platform-commons:1.8.1" />
+      <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.1" />
+    </root>
+  </artifact>
+</component>

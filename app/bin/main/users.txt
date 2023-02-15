@@ -1,0 +1,5 @@
+owner, Freddy, generic, freddyisthebest
+customer, Mark, mark234, mypassword
+cashier, Edith, sampleusername, samplepassword
+customer, name, realName, password
+seller, Naomi, naomi<3, name
