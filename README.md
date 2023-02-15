@@ -1,7 +1,7 @@
 ## CollaborativeVending
 A Vending Machine Revolution. Bop it, Twist it, Vend it
 
-###How to use our app:
+### How to use our app:
 1. Clone the repository from GitHub.
 2. After opening the repo on an IDE, cd into the SOFT2412-A2 folder.
 3. To run, please enter 'gradle run --console=plain' into the terminal.
